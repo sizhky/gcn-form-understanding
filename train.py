@@ -33,7 +33,7 @@ import numpy as np
 import xml.etree.ElementTree as ET
 import networkx as nx
 import pdb
-import pagexml
+
 import re
 import torch 
 import dgl
